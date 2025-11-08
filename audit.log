@@ -1,0 +1,2 @@
+2025-11-08 11:24:29 | ADD | user=admin | sku=001 | Added item: fogg
+2025-11-08 11:25:48 | UPDATE | user=admin | sku=001 | Updated fields: [quantity]
