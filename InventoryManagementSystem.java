@@ -1,3 +1,8 @@
+// USER NAME = "admin"
+// PASSWORD = "admin123"
+
+
+
 // InventoryManagementSystem.java
 import java.io.*;
 import java.time.LocalDateTime;
